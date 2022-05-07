@@ -1,3 +1,8 @@
+<h3>Backend developer</h3>
+<p>
+
+</p>
+
 <h3>Connect with me:</h3>
 <p>
     <a target="_blank" href="https://instagram.com/abdullahdinlerx"><img src="https://skillicons.dev/icons?i=instagram"></a>
@@ -6,7 +11,7 @@
 
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,.net,mssql,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,js,html,css)](https://skillicons.dev)
 
 
 <details>
