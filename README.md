@@ -6,7 +6,7 @@
 
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c#,.net,mssql,JavaScript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,sql,js,html,css)](https://skillicons.dev)
 
 
 <details>
