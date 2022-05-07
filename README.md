@@ -1,6 +1,11 @@
-<h3>Backend developer</h3>
+<h1>Backend Developer</h1>
+<h3>About me:</h3>
 <p>
-
+Hello, 
+I'm Abdullah.  
+I started in the software field with curiosity in my high school years and I made coding a hobby with pleasure.  
+I'm currently trying to train myself as a backend developer.  
+I love software very much and I work hard to be a good software developer.
 </p>
 
 <h3>Connect with me:</h3>
@@ -11,7 +16,7 @@
 
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,html,css,js)](https://skillicons.dev)
 
 
 <details>
