@@ -6,13 +6,13 @@
 
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,sql,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,.net,mssql,js,html,css)](https://skillicons.dev)
 
 
 <details>
     <summary>Github Stats</summary>
     <br><img src="https://komarev.com/ghpvc/?username=abdullahdinler&color=red&style=for-the-badge">
-    <br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdinler&langs_count=4">
+    <br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdinler&langs_count=5">
     <br><br><img src="https://github-readme-stats.vercel.app/api?username=abdullahdinler">
 </details>
 
