@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3>Connect with me:</h3>
+<p>
+    <a target="_blank" href="https://instagram.com/abdullahdinlerx"><img src="https://skillicons.dev/icons?i=instagram"></a>
+    <a target="_blank" href="https://linkedin.com/in/abdullahdinler"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+</p>
 
-<!--
-**abdullahdinler/abdullahdinler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Languages and Tools:</h3>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=c#,.net,mssql,JavaScript,html,css)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details>
+    <summary>Github Stats</summary>
+    <br><img src="https://komarev.com/ghpvc/?username=abdullahdinler&color=red&style=for-the-badge">
+    <br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdinler&langs_count=4">
+    <br><br><img src="https://github-readme-stats.vercel.app/api?username=abdullahdinler">
+</details>
+
