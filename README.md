@@ -16,7 +16,7 @@ I love software very much and I work hard to be a good software developer.
 
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,html,css,js,bootstrap,wordpress)](https://skillicons.dev)
 
 
 <details>
