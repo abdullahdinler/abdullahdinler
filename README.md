@@ -1,11 +1,13 @@
 <h1>Full Stack Web Developer</h1>
 <h3>About me:</h3>
 <p>
-Hello, 
-I'm Abdullah.  
-I started in the software field with curiosity in my high school years and I made coding a hobby with pleasure.  
-I'm currently trying to train myself as a backend developer.  
-I love software very much and I work hard to be a good software developer.
+Hello, I'm Abdullah. I am a professionally developing software developer in the web space. I am currently using HTML, CSS,
+JavaScript, Bootstrap, C#, Asp.Net, MsSql, SQL
+technologies and programming languages such as
+I equip and continue to learn.
+Professionally stable, open to development, passionate
+and I am attentive and successful in teamwork.
+i am a member.
 </p>
 
 <h3>Connect with me:</h3>
