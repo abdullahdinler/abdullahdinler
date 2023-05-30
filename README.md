@@ -1,10 +1,8 @@
 # 👨‍💻 About Me:
-👋 Hi, I’m @abdullahdinler<br>👀 I’m interested in Web Development .<br>💞️ I would like to cooperate with Companies working in the fields I am related to.<br>🤝 I’m available for freelancing.<br>  🌱I'm currently learning .Web API<br>
+👋 Hi, I’m @abdullahdinler<br>👀 I’m interested in Web Development .<br>💞️ I would like to cooperate with Companies working in the fields I am related to.<br>🤝 I’m available for freelancing.<br>  🌱I'm currently learning Web API<br>
                    
 💻 I am looking for a company where I can work for my.
 
-
-[![](https://visitcount.itsvg.in/api?id=abdullahdinler&icon=0&color=1)](https://visitcount.itsvg.in)
 <img src="https://komarev.com/ghpvc/?username=abdullahdinler&color=red&style=for-the-badge">
 ## 📩 Connect with me:
 
