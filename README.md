@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/abdullahdinler/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahdinler" height="30" width="40" /></a><a href="https://github.com/abdullahdinler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@ozdoan" height="30" width="40" /></a>
-
+</br>
 📫 **abdullahdinler35@gmail.com**
 </br>
 📫 **contact@abdullahdinler.dev**
